@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o João Elias!
 
 Sou estudante de TI e apaixonado por desenvolvimento.  
-Atualmente focado em **React Native**, **Node.js**, **MySQL** e criação de sistemas completos (frontend, backend e banco de dados).  
+Atualmente focado em **React**, **React Native**, **Node.js**, **MySQL** e criação de sistemas completos (frontend, backend e banco de dados).  
 
 Gosto de criar projetos que resolvem problemas reais — como sistemas de ponto, gestão de estoque, automações e apps mobile.
 
