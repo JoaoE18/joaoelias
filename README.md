@@ -31,5 +31,6 @@ Gosto de criar projetos que resolvem problemas reais — como sistemas de ponto,
 - 📍 Mato Grosso – Brasil  
 
 ## 📫 Como falar comigo
-**Email:** joaoe5828@gmail.com 
+**Email:** joaoe5828@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/joao-elias-41a953320/  
