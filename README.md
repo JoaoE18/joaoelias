@@ -24,16 +24,12 @@ Gosto de criar projetos que resolvem problemas reais — como sistemas de ponto,
 ### 🗄️ Banco de dados
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 
----
-
 ## 📌 Sobre mim
 - 📚 Cursando Tecnologia da Informação  
 - 💼 Futuro desenvolvedor fullstack  
 - 🚀 Gosto de criar sistemas completos  
 - 📍 Mato Grosso – Brasil  
 
----
-
 ## 📫 Como falar comigo
-**Email:** joaoelias@gmail.com (exemplo)  
-**Instagram:** @seuuser  
+**Email:** joaoe5828@gmail.com 
+**LinkedIn:** https://www.linkedin.com/in/joao-elias-41a953320/  
